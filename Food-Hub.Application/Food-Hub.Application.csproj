@@ -15,4 +15,10 @@
     <PackageReference Include="MySql.EntityFrameworkCore" Version="9.0.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Services\Interfaces\" />
+  </ItemGroup>
+
 </Project>
