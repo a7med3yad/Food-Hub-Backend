@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Application.deps.json
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Application.dll
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Application.pdb
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.sourcelink.json
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.dll
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\refint\Food-Hub.Application.dll
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.pdb
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\ref\Food-Hub.Application.dll
