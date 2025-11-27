@@ -1,6 +1,0 @@
-@Food_Hub_HostAddress = http://localhost:5004
-
-GET {{Food_Hub_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
