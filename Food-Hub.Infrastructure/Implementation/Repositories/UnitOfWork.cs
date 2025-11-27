@@ -9,16 +9,14 @@ using System.Threading.Tasks;
 
 namespace Food_Hub.Infrastructure.Implementation.Repositories
 {
-    public class UnitOfWork : IUnitOfWork
+    public class UnitOfWork(FoodHubDbContext context) : IUnitOfWork
     {
-        private readonly AppDbContext _context;
-        public UnitOfWork(AppDbContext context)
-        {
-            _context = context;
-        }
+        private readonly FoodHubDbContext _context = context;
+        
         public void Dispose()
         {
             _context.Dispose();
+            GC.SuppressFinalize(this);
         }
 
         public async Task<int> SaveChanges()

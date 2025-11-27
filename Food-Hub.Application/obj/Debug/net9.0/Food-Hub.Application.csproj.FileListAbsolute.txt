@@ -11,3 +11,8 @@ C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-
 C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\refint\Food-Hub.Application.dll
 C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.pdb
 C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\ref\Food-Hub.Application.dll
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Core.dll
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Core.pdb
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.54B4B8F0.Up2Date
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\bin\Debug\net9.0\Food-Hub.Application.runtimeconfig.json
+C:\Users\ahmed\source\repos\Food-Hub\Food-Hub.Application\obj\Debug\net9.0\Food-Hub.Application.genruntimeconfig.cache
