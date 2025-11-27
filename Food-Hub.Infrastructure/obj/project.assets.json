@@ -489,6 +489,19 @@
         "runtime": {
           "lib/net9.0/ZstdSharp.dll": {}
         }
+      },
+      "Food-Hub.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MySql.EntityFrameworkCore": "9.0.9"
+        },
+        "compile": {
+          "bin/placeholder/Food-Hub.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Food-Hub.Core.dll": {}
+        }
       }
     }
   },
@@ -1258,10 +1271,16 @@
         "zstdsharp.port.0.8.6.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "Food-Hub.Core/1.0.0": {
+      "type": "project",
+      "path": "../Food-Hub.Core/Food-Hub.Core.csproj",
+      "msbuildProject": "../Food-Hub.Core/Food-Hub.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Food-Hub.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.0",
       "MySql.EntityFrameworkCore >= 9.0.9"
     ]
@@ -1298,7 +1317,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ahmed\\source\\repos\\Food-Hub\\Food-Hub.Core\\Food-Hub.Core.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\source\\repos\\Food-Hub\\Food-Hub.Core\\Food-Hub.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
