@@ -9,14 +9,9 @@ using System.Threading.Tasks;
 
 namespace Food_Hub.Infrastructure.Implementation.Repositories
 {
-    internal class Repository<T> : IRepository<T> where T : class
+    public class Repository<T>(FoodHubDbContext context) : IRepository<T> where T : class
     {
-        private AppDbContext _context;
-        public Repository(AppDbContext _context)
-        {
-            this._context = _context;
-        }
-
+        private readonly FoodHubDbContext _context = context;
 
         public IQueryable<T> GetAll()
         {
